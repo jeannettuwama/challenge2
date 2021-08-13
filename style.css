@@ -14,7 +14,7 @@ body{
     
 }
 .pic{
-    margin-top: 1rem;
+    margin-top: 0.7rem;
     margin-bottom: 1rem;
     width: 80%;
 }
@@ -55,7 +55,7 @@ input{
     margin-top: 1rem;
 }
 .form{
-    margin-top: 1rem;
+    margin-top: 0.8rem;
     margin-left: 2rem;
 }
 ::placeholder {
@@ -198,7 +198,7 @@ footer p{
     .container{
         margin: auto;
         width: 50%;
-        margin-top: 1rem;
+        margin-top: 0.8rem;
         
     }
     .soc{
@@ -236,3 +236,4 @@ footer p{
             margin-bottom: 0;
         }
 }
+
