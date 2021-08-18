@@ -16,7 +16,7 @@ body{
 .pic{
     margin-top: 0.7rem;
     margin-bottom: 1rem;
-    width: 80%;
+    width: 100%;
 }
 .logo{
     margin-left: 10rem;
@@ -212,7 +212,7 @@ footer p{
         
     }
     .pic{
-        width: 80%;
+        width: 100%;
     }
     .row1{
  margin-bottom: 0.5rem;
